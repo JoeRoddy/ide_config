@@ -1,9 +1,9 @@
 {
-  workbench.iconTheme: vscode-icons,
-  workbench.colorTheme: Default Light+,
-  window.zoomLevel: -1,
-  git.autofetch: false,
-  editor.minimap.maxColumn: 120,
-  editor.wordWrapColumn: 80,
-  vsicons.projectDetection.autoReload: true
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorTheme": "Default Light+",
+  "window.zoomLevel": -1,
+  "git.autofetch": false,
+  "editor.minimap.maxColumn": 120,
+  "editor.wordWrapColumn": 80,
+  "vsicons.projectDetection.autoReload": true
 }
