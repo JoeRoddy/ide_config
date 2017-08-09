@@ -1,0 +1,11 @@
+[
+    {
+        "key": "ctrl+shift+l",
+        "command": "editor.action.formatDocument",
+        "when": "editorHasDocumentFormattingProvider && editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+shift+c",
+        "command": "workbench.action.terminal.toggleTerminal"
+    }
+]
