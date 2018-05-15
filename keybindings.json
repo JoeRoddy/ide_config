@@ -7,5 +7,12 @@
     {
         "key": "ctrl+shift+c",
         "command": "workbench.action.terminal.toggleTerminal"
+    },
+    {
+        "key": "ctrl+l",
+        "command": "editor.action.insertSnippet",
+        "args": {
+            "name": "Print to console"
+        }
     }
 ]
